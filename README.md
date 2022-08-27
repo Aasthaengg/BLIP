@@ -44,8 +44,8 @@ python3 vqa.py <'sample_img_path'> <'Question?'>
 ## Todo
 
 - [x] Visual Question Answering
-- [] Image Captioning
-- [] Image-Text Matching using cosine similarity
+- [ ] Image Captioning
+- [ ] Image-Text Matching using cosine similarity
 
 ## Citations
 
